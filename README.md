@@ -1,17 +1,6 @@
-## My Project
 
-TODO: Fill this README out!
 
-Be sure to:
+# AWSWorkshop.io ChaosSearch workshop 
 
-* Change the title in this README
-* Edit your repository description on GitHub
-
-## Security
-
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
-
-## License
-
-This library is licensed under the MIT-0 License. See the LICENSE file.
+Learn how ChaosSearch can streamline log processing to take you from raw logs stored in S3 to powerful insights through Kibana, in just a few minutes and without the need to move data or create complex pipelines.
 
