@@ -6,7 +6,7 @@ weight: 1
 
 # ChaosSearch Workshop
 
-{{< youtube _ZQnhA_c1dg >}}
+{{< vimeo 646975839 >}}
 
 ### Welcome
 ChaosSearch is an elastic cloud service running on AWS requiring no provisioning or configuration in order to scale -- a true SaaS offering. Raw data is ingested directly from the user's S3 buckets (read-only) and indexed using ChaosSearch Index® technology back to the user's bucket, transforming S3 storage into a log and event analytics platform.

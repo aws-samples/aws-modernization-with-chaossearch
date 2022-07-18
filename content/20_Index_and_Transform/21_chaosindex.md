@@ -12,16 +12,10 @@ The ChaosSearch platform is backed by a new and powerful indexing technology, Ch
 
 Your screen should now look like the following, you can begin indexing by clicking **Start Indexing**: 
 
-![](/images/preparing/indexing.jpg)
+![](/images/indexandtransform/indexing.jpg)
 
-When the indexing has completed your screen should look like the following:
+When indexing is completed your screen should look like the following:
 
-![](/images/preparing/indexingdone.jpg)
+![](/images/indexandtransform/indexingdone.jpg)
 
-{{% notice info %}}
-ChaosSearch dinamically builds the mappings for the index structure, so any new fields captured in the log files are automatically added to the index, with the appropriate data type assigned.
-{{% /notice %}}
-
-{{% notice note %}}
-Chaos Index® documentation [https://docs.chaossearch.io/docs/creating-object-groups](https://docs.chaossearch.io/docs/creating-object-groups)
-{{% /notice %}}
+> **Info:** ChaosSearch dynamically adapts to log changes, for example to include in the index new fields captured in the log files.
